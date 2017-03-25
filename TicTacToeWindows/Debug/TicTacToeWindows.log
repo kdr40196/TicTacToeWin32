@@ -1,3 +1,9 @@
-﻿  GameController.cpp
-  TicTacToeWindows.vcxproj -> C:\Users\Keyur\Documents\Visual Studio 2017\Projects\TicTacToeWindows\Debug\TicTacToeWindows.exe
-  TicTacToeWindows.vcxproj -> C:\Users\Keyur\Documents\Visual Studio 2017\Projects\TicTacToeWindows\Debug\TicTacToeWindows.pdb (Partial PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TicTacToeWindows.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  TicTacToeWindows.cpp
+  GameController.cpp
+  Player.cpp
+  Generating Code...
+c:\users\keyur\documents\visual studio 2017\projects\tictactoewindows\tictactoewindows\player.cpp(12): warning C4172: returning address of local variable or temporary: temp
+  TicTacToeWindows.vcxproj -> C:\Users\Keyur\Documents\Visual Studio 2017\Projects\TicTacToeWindows\Debug\TicTacToeWin32.exe
+  TicTacToeWindows.vcxproj -> C:\Users\Keyur\Documents\Visual Studio 2017\Projects\TicTacToeWindows\Debug\TicTacToeWin32.pdb (Partial PDB)
